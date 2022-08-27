@@ -1,4 +1,4 @@
-##### ROMERO REYES LUIS IVAN 19100250
+# ROMERO REYES LUIS IVAN 19100250
 
 **EXPERIENCIA LABORAL :**
 trabaje en proyectos medianos y grandes de cableado de red estructurado y camaras de seguridad.
