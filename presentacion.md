@@ -14,3 +14,6 @@ Actualmente trabajo como tecnico en una empresa que ofrece servicios de internet
 **Especialidad**
 Elegi la especialidad de programacion y me llama la atencion la creacion de aplicaciones moviles.
 
+**Hobbies**
+Running , ver el box o la ufc , aprender a tocar  guitarra acustica .
+
