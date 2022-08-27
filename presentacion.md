@@ -1,3 +1,3 @@
- <marquee behavior="alternate">
-    Este texto rebotará dentro de la marquesina.
-  </marquee>
+##### ROMERO REYES LUIS IVAN 19100250
+
+Estudiante de ingenieria de septimo semestre.
