@@ -7,6 +7,8 @@ Tecnico en proyectos medianos y grandes de cableado de red estructurado y camara
 >Actualmente trabajo como tecnico en una empresa que ofrece servicios de internet mediante radioenlaces.
 
 
+– – –
+
 **LENGUAJES QUE DOMINO**
 
 * C#
