@@ -18,7 +18,11 @@ _Tecnico en proyectos medianos y grandes de cableado de red estructurado y camar
 <br><br><br>
 
 **Especialidad**<br>
-_Elegi la especialidad de programacion y me llama la atencion la creacion de aplicaciones moviles._
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 **Hobbies**<br>
 _Running , ver el box o la ufc , aprender a tocar  guitarra acustica._
