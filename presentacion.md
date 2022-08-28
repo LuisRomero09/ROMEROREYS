@@ -5,7 +5,7 @@
 **EXPERIENCIA LABORAL**<br><br>
 Tecnico en proyectos medianos y grandes de cableado de red estructurado y camaras de seguridad.
 >Actualmente trabajo como tecnico en una empresa que ofrece servicios de internet mediante radioenlaces.
-
+<br><br>
 
 
 
