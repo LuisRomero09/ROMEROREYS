@@ -9,7 +9,7 @@ _Tecnico en proyectos medianos y grandes de cableado de red estructurado y camar
 
 
 
-**LENGUAJES QUE DOMINO**<br>
+**LENGUAJES Y TECNOLOGIAS QUE DOMINO**<br>
 
 | LENGUAJES DE PROGRAMACION    |  MANEJADORES DE BASES DE DATOS |  
 |-----------------------------:|-------------------------------:|
@@ -22,13 +22,13 @@ _Tecnico en proyectos medianos y grandes de cableado de red estructurado y camar
 _programacion de moviles_
 
 **Hobbies**<br>
-[ ] Running
+*Running
 
-[ ] ver el box o la ufc 
+*Ver el box o la ufc 
 
-[ ] filosofia y politica 
+*Filosofia y politica 
 
-[ ] aprende a tocar guitarra clasica.
+*Aprende a tocar guitarra clasica.
 
 
 
