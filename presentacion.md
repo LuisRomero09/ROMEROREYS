@@ -3,11 +3,11 @@
 – – –
 
 **EXPERIENCIA LABORAL**
-trabaje en proyectos medianos y grandes de cableado de red estructurado y camaras de seguridad.
+>trabaje en proyectos medianos y grandes de cableado de red estructurado y camaras de seguridad.
 Actualmente trabajo como tecnico en una empresa que ofrece servicios de internet mediante radioenlaces.
 
 – – –
-**LENGUAJES QUE USO O LLEGUE A USAR**
+**LENGUAJES QUE DOMINO**
 
 * C#
 * JAVA
