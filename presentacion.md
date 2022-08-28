@@ -15,16 +15,21 @@ _Tecnico en proyectos medianos y grandes de cableado de red estructurado y camar
 |-----------------------------:|-------------------------------:|
 |C#                            |     SQL                        | 
 |JAVA                          |     MYSQL                      | 
-|PYTHON                        |                                |
+|PYTHON                        |     ----                       |
 <br><br><br>
 
-**Especialidad**<br>
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+**Especialidades de mi interes a futuro**<br>
+_programacion de moviles_
 
 **Hobbies**<br>
-_Running , ver el box o la ufc , aprender a tocar  guitarra acustica._
+[ ] Running
+
+[ ] ver el box o la ufc 
+
+[ ] filosofia y politica 
+
+[ ] aprende a tocar guitarra clasica.
+
+
+
 
