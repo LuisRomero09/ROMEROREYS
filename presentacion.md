@@ -9,17 +9,17 @@ Tecnico en proyectos medianos y grandes de cableado de red estructurado y camara
 
 
 
-**LENGUAJES QUE DOMINO**
+**LENGUAJES QUE DOMINO**<br>
 
 * C#
 * JAVA
 * PYTHON
 * mySQL y SQL
+<br><br><br>
 
-
-**Especialidad**<br><br>
+**Especialidad**<br>
 Elegi la especialidad de programacion y me llama la atencion la creacion de aplicaciones moviles.
 
-**Hobbies**<br><br>
+**Hobbies**<br>
 Running , ver el box o la ufc , aprender a tocar  guitarra acustica .
 
