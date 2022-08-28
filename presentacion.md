@@ -21,7 +21,7 @@ _Tecnico en proyectos medianos y grandes de cableado de red estructurado y camar
 **Especialidades de mi interes a futuro**<br>
 _programacion de moviles_
 
-**Hobbies**<br><br>
+**Hobbies**<br>
 * Running
 
 * Ver el box o la ufc 
