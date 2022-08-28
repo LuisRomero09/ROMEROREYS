@@ -11,10 +11,11 @@ _Tecnico en proyectos medianos y grandes de cableado de red estructurado y camar
 
 **LENGUAJES QUE DOMINO**<br>
 
-* C#
-* JAVA
-* PYTHON
-* mySQL y SQL
+| LENGUAJES DE PROGRAMACION    |  MANEJADORES DE BASES DE DATOS |  
+|-----------------------------:|-------------------------------:|
+|C#                            |     SQL                        | 
+|JAVA                          |     MYSQL                      | 
+|PYTHON                        |                                |
 <br><br><br>
 
 **Especialidad**<br>
