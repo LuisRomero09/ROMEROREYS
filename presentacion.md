@@ -21,14 +21,14 @@ _Tecnico en proyectos medianos y grandes de cableado de red estructurado y camar
 **Especialidades de mi interes a futuro**<br>
 _programacion de moviles_
 
-**Hobbies**<br>
-*Running
+**Hobbies**<br><br>
+* Running
 
-*Ver el box o la ufc 
+* Ver el box o la ufc 
 
-*Filosofia y politica 
+* Filosofia y politica 
 
-*Aprende a tocar guitarra clasica.
+* Aprende a tocar guitarra clasica.
 
 
 
