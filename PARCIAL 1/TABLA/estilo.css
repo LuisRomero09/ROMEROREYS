@@ -1,0 +1,19 @@
+
+    table {
+        width: 100%;
+        border: 1px solid #000;
+        box-shadow: 10px 5px 5px black;
+        background-color: lightgrey;
+        color:black;
+     }
+     th, td {
+        width: 25%;
+        text-align: left;
+        vertical-align: top;
+        border: 1px solid #000;
+        border-spacing: 0;
+     }
+p{
+    text-align: center;
+    font-size: x-large;
+}
