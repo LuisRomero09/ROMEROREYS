@@ -28,7 +28,7 @@ _programacion de moviles_
 
 * Filosofia y politica 
 
-* Aprende a tocar guitarra clasica.
+* Aprende a tocar guitarra clasica...
 
 
 
