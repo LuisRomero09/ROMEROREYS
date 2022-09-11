@@ -1,0 +1,46 @@
+
+.boton{
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+
+.acordeon {
+    position: relative;
+    display: inline-block;
+}
+
+.acordeon-contenido {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+
+.acordeon-contenido a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.acordeon-contenido a:hover {background-color: #7fa9df}
+
+
+.acordeon:hover .acordeon-contenido{
+    display: block;
+}
+
+
+.acordeon:hover .boton {
+    background-color: #3e8e41;
+}
+
+
