@@ -1,0 +1,29 @@
+.contenedor{
+    display:flex;
+    }
+    .elemento{
+    width:25%;
+    height: 40px;
+    border: black solid 1px;
+    background-color: rgb(155, 237, 31);
+    
+    }
+
+
+
+
+
+    @media (max-width: 600px) {
+        .contenedor{
+            display:flex;
+            flex-direction:column;
+            
+            }
+            
+
+            .elemento{
+                background-color: rgb(26, 157, 251);
+            }
+      }
+
+      
