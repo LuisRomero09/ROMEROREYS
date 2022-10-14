@@ -1,14 +1,12 @@
-.grid {
-    display: grid;
-    grid-template-areas: "head head"
-                         "menu main"
-                         "foot foot";
-  }
+.grid {display: grid;
   
-  .a { grid-area: head; background: blue;
-    height: 100px; margin: 3px;
+background-color: aqua;
+grid-template-columns:25% 25% 300px ;
+border: solid 1px black;}
+.a {
+ border: solid black 3px;
 }
-  .b { grid-area: menu; background: red;  height: 250px; margin: 3px;}
-  .c { grid-area: main; background: green; height: 250px; margin: 3px;}
-  
-  .d { grid-area: foot; background: orange;  height: 350px;margin: 3px; }
+
+.ab{
+  margi;
+}
